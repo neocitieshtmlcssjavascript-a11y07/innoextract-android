@@ -11,3 +11,4 @@ You can read more about this project here: https://www.armedpineapple.co.uk/proj
 
 # License
 This application is available under the [MIT license](https://github.com/alanwoolley/innoextract-android/blob/master/LICENSE)
+.
